@@ -14,7 +14,7 @@
 // ============================= Config =============================
 
 // APIKEY is a personal key which can be created via the steps listed here: https://labs.goo.ne.jp/apiusage/
-const APIKEY = 'feee0bea53d9a3fd77ccbd0bf146015db099ee4d987e8eb2683a2c5e79bddc08';
+const APIKEY = 'INSERT API KEY HERE';
 
 // probability sets the amount of kanji on a page that will be converted, which goes up to 100 for all kanji (although most likely not all kanji will be converted).
 // The API calls can be quite slow, so even probability = 10 will take about 5-10 seconds. Above 50 is not recommended.
